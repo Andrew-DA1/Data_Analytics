@@ -13,7 +13,7 @@ Uid — unique user ID,<br/>
 Buy Ts — date and time of the order,<br/>
 Revenue — the order amount.<br/>
 
-The structure costs.csv
+costs.csv structure
 
 source_id — the ID of the advertising source,<br/>
 dt-the date of the advertising campaign,<br/>
