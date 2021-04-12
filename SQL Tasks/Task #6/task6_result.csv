@@ -1,0 +1,707 @@
+"country","city","sum"
+"Afghanistan","Kabul",67.82
+"Afghanistan",NULL,67.82
+"Algeria","Batna",107.73
+"Algeria","Bchar",89.77
+"Algeria","Skikda",151.68
+"Algeria",NULL,349.18
+"American Samoa","Tafuna",47.85
+"American Samoa",NULL,47.85
+"Angola","Benguela",93.80
+"Angola","Namibe",93.75
+"Angola",NULL,187.55
+"Anguilla","South Hill",99.68
+"Anguilla",NULL,99.68
+"Argentina","Almirante Brown",85.78
+"Argentina","Avellaneda",129.71
+"Argentina","Baha Blanca",81.81
+"Argentina","Crdoba",85.77
+"Argentina","Escobar",96.76
+"Argentina","Ezeiza",75.78
+"Argentina","La Plata",124.71
+"Argentina","Merlo",114.72
+"Argentina","Quilmes",117.76
+"Argentina","San Miguel de Tucumn",77.77
+"Argentina","Santa F",105.78
+"Argentina","Tandil",101.70
+"Argentina","Vicente Lpez",100.75
+"Argentina",NULL,1298.80
+"Armenia","Yerevan",118.75
+"Armenia",NULL,118.75
+"Austria","Graz",111.73
+"Austria","Linz",58.83
+"Austria","Salzburg",113.74
+"Austria",NULL,284.30
+"Azerbaijan","Baku",89.78
+"Azerbaijan","Sumqayit",108.75
+"Azerbaijan",NULL,198.53
+"Bahrain","al-Manama",108.76
+"Bahrain",NULL,108.76
+"Bangladesh","Dhaka",107.74
+"Bangladesh","Jamalpur",98.77
+"Bangladesh","Tangail",146.68
+"Bangladesh",NULL,353.19
+"Belarus","Mogiljov",81.76
+"Belarus","Molodetno",189.60
+"Belarus",NULL,271.36
+"Bolivia","El Alto",85.78
+"Bolivia","Sucre",92.78
+"Bolivia",NULL,178.56
+"Brazil","Alvorada",75.79
+"Brazil","Angra dos Reis",92.80
+"Brazil","Anpolis",93.75
+"Brazil","Aparecida de Goinia",90.78
+"Brazil","Araatuba",85.77
+"Brazil","Bag",73.85
+"Brazil","Belm",140.69
+"Brazil","Blumenau",126.73
+"Brazil","Boa Vista",130.68
+"Brazil","Braslia",72.82
+"Brazil","Goinia",122.74
+"Brazil","Guaruj",107.77
+"Brazil","Ibirit",68.87
+"Brazil","Juazeiro do Norte",92.81
+"Brazil","Juiz de Fora",134.73
+"Brazil","Luzinia",75.78
+"Brazil","Maring",76.82
+"Brazil","Po",102.75
+"Brazil","Poos de Caldas",107.70
+"Brazil","Rio Claro",96.74
+"Brazil","Santa Brbara dOeste",194.61
+"Brazil","Santo Andr",125.67
+"Brazil","So Bernardo do Campo",92.80
+"Brazil","So Leopoldo",93.79
+"Brazil","Sorocaba",113.71
+"Brazil","Vila Velha",141.71
+"Brazil","Vitria de Santo Anto",98.75
+"Brazil","guas Lindas de Gois",87.78
+"Brazil",NULL,2919.19
+"Brunei","Bandar Seri Begawan",107.66
+"Brunei",NULL,107.66
+"Bulgaria","Ruse",112.76
+"Bulgaria","Stara Zagora",81.76
+"Bulgaria",NULL,194.52
+"Cambodia","Battambang",92.76
+"Cambodia","Phnom Penh",86.75
+"Cambodia",NULL,179.51
+"Cameroon","Bamenda",96.78
+"Cameroon","Yaound",89.71
+"Cameroon",NULL,186.49
+"Canada","Gatineau",87.80
+"Canada","Halifax",89.76
+"Canada","Oshawa",87.79
+"Canada","Richmond Hill",167.62
+"Canada","Vancouver",126.73
+"Canada",NULL,559.70
+"Chad","NDjamna",122.72
+"Chad",NULL,122.72
+"Chile","Antofagasta",124.74
+"Chile","Coquimbo",110.74
+"Chile","Rancagua",67.86
+"Chile",NULL,303.34
+"China","Baicheng",109.73
+"China","Baiyin",110.76
+"China","Binzhou",132.70
+"China","Changzhou",133.68
+"China","Datong",113.70
+"China","Daxian",91.70
+"China","Dongying",101.78
+"China","Emeishan",119.75
+"China","Enshi",49.88
+"China","Ezhou",63.84
+"China","Fuyu",146.67
+"China","Fuzhou",32.90
+"China","Haining",89.80
+"China","Hami",81.80
+"China","Hohhot",106.68
+"China","Huaian",77.79
+"China","Jinchang",129.68
+"China","Jining",108.77
+"China","Jinzhou",110.71
+"China","Junan",78.77
+"China","Korla",68.77
+"China","Laiwu",81.75
+"China","Laohekou",96.75
+"China","Lengshuijiang",142.67
+"China","Leshan",113.73
+"China","Liaocheng",124.66
+"China","Meixian",110.72
+"China","Nanyang",91.79
+"China","Pingxiang",86.80
+"China","Qinhuangdao",128.71
+"China","Rizhao",82.81
+"China","Sanya",94.76
+"China","Shanwei",109.71
+"China","Shaoguan",112.72
+"China","Shenzhen",70.82
+"China","Suihua",92.78
+"China","Tianjin",88.81
+"China","Tiefa",113.74
+"China","Tieli",78.82
+"China","Tongliao",104.71
+"China","Weifang",107.73
+"China","Xiangfan",110.68
+"China","Xiangtan",86.80
+"China","Xintai",82.78
+"China","Xinxiang",95.76
+"China","Yantai",65.87
+"China","Yinchuan",128.73
+"China","Yingkou",80.77
+"China","Yuncheng",110.73
+"China","Yuzhou",95.78
+"China","Zalantun",76.80
+"China","Zaoyang",69.79
+"China","Zhoushan",151.69
+"China",NULL,5251.03
+"Colombia","Buenaventura",89.77
+"Colombia","Dos Quebradas",134.70
+"Colombia","Florencia",97.79
+"Colombia","Pereira",95.78
+"Colombia","Sincelejo",137.72
+"Colombia","Sogamoso",105.78
+"Colombia",NULL,661.54
+"Congo, The Democratic Republic of the","Lubumbashi",79.78
+"Congo, The Democratic Republic of the","Mwene-Ditu",88.80
+"Congo, The Democratic Republic of the",NULL,168.58
+"Czech Republic","Olomouc",132.72
+"Czech Republic",NULL,132.72
+"Dominican Republic","La Romana",85.80
+"Dominican Republic","San Felipe de Puerto Plata",107.70
+"Dominican Republic","Santiago de los Caballeros",110.76
+"Dominican Republic",NULL,304.26
+"Ecuador","Loja",118.75
+"Ecuador","Portoviejo",114.73
+"Ecuador","Robamba",135.70
+"Ecuador",NULL,369.18
+"Egypt","Bilbays",110.72
+"Egypt","Idfu",89.77
+"Egypt","Mit Ghamr",120.75
+"Egypt","Qalyub",77.81
+"Egypt","Sawhaj",120.74
+"Egypt","Shubra al-Khayma",139.69
+"Egypt",NULL,659.48
+"Estonia","Tartu",105.72
+"Estonia",NULL,105.72
+"Ethiopia","Addis Abeba",91.77
+"Ethiopia",NULL,91.77
+"Faroe Islands","Trshavn",96.76
+"Faroe Islands",NULL,96.76
+"Finland","Oulu",78.79
+"Finland",NULL,78.79
+"France","Brest",77.81
+"France","Le Mans",59.83
+"France","Toulon",77.78
+"France","Toulouse",118.70
+"France",NULL,334.12
+"French Guiana","Cayenne",97.80
+"French Guiana",NULL,97.80
+"French Polynesia","Faaa",89.78
+"French Polynesia","Papeete",115.74
+"French Polynesia",NULL,205.52
+"Gambia","Banjul",114.73
+"Gambia",NULL,114.73
+"Germany","Duisburg",126.70
+"Germany","Erlangen",127.73
+"Germany","Halle/Saale",100.75
+"Germany","Mannheim",128.69
+"Germany","Saarbrcken",78.78
+"Germany","Siegen",86.81
+"Germany","Witten",91.78
+"Germany",NULL,741.24
+"Greece","Athenai",130.76
+"Greece","Patras",73.78
+"Greece",NULL,204.54
+"Greenland","Nuuk",119.72
+"Greenland",NULL,119.72
+"Holy See (Vatican City State)","Citt del Vaticano",146.68
+"Holy See (Vatican City State)",NULL,146.68
+"Hong Kong","Kowloon and New Kowloon",104.76
+"Hong Kong",NULL,104.76
+"Hungary","Szkesfehrvr",111.71
+"Hungary",NULL,111.71
+"India","Adoni",97.80
+"India","Ahmadnagar",99.74
+"India","Allappuzha (Alleppey)",98.76
+"India","Ambattur",111.76
+"India","Amroha",81.78
+"India","Balurghat",86.75
+"India","Berhampore (Baharampur)",65.81
+"India","Bhavnagar",96.79
+"India","Bhilwara",147.71
+"India","Bhimavaram",115.72
+"India","Bhopal",134.68
+"India","Bhusawal",103.74
+"India","Bijapur",154.66
+"India","Chandrapur",108.71
+"India","Chapra",86.82
+"India","Dhule (Dhulia)",83.79
+"India","Etawah",104.75
+"India","Firozabad",97.78
+"India","Gandhinagar",69.83
+"India","Gulbarga",70.81
+"India","Haldia",111.71
+"India","Halisahar",154.70
+"India","Hoshiarpur",74.83
+"India","Hubli-Dharwad",59.86
+"India","Jaipur",88.78
+"India","Jhansi",112.74
+"India","Jodhpur",76.78
+"India","Kamarhati",104.74
+"India","Kanchrapara",62.85
+"India","Karnal",116.73
+"India","Katihar",86.76
+"India","Kumbakonam",56.84
+"India","Miraj",80.81
+"India","Munger (Monghyr)",105.70
+"India","Mysore",119.76
+"India","Nagaon",73.81
+"India","Palghat (Palakkad)",96.79
+"India","Parbhani",123.74
+"India","Pathankot",72.83
+"India","Patiala",103.77
+"India","Pudukkottai",117.75
+"India","Pune",100.72
+"India","Purnea (Purnia)",125.74
+"India","Rae Bareli",141.69
+"India","Rajkot",95.80
+"India","Rampur",93.78
+"India","Ranchi",75.80
+"India","Sambhal",86.79
+"India","Satna",116.71
+"India","Shimoga",86.81
+"India","Shivapuri",94.78
+"India","Siliguri (Shiliguri)",130.70
+"India","Tambaram",80.78
+"India","Udaipur",109.77
+"India","Uluberia",109.72
+"India","Uttarpara-Kotrung",88.77
+"India","Valparai",162.67
+"India","Varanasi (Benares)",97.77
+"India","Vijayawada",121.77
+"India","Yamuna Nagar",93.74
+"India",NULL,6034.78
+"Indonesia","Cianjur",73.76
+"Indonesia","Ciomas",108.72
+"Indonesia","Ciparay",65.83
+"Indonesia","Gorontalo",87.81
+"Indonesia","Jakarta",94.76
+"Indonesia","Lhokseumawe",122.69
+"Indonesia","Madiun",96.75
+"Indonesia","Pangkal Pinang",84.84
+"Indonesia","Pemalang",106.74
+"Indonesia","Pontianak",123.72
+"Indonesia","Probolinggo",152.68
+"Indonesia","Purwakarta",81.83
+"Indonesia","Surakarta",85.75
+"Indonesia","Tegal",66.81
+"Indonesia",NULL,1352.69
+"Iran","Arak",90.75
+"Iran","Esfahan",94.76
+"Iran","Kermanshah",93.74
+"Iran","Najafabad",139.69
+"Iran","Qomsheh",183.63
+"Iran","Shahr-e Kord",79.80
+"Iran","Sirjan",80.83
+"Iran","Tabriz",114.76
+"Iran",NULL,877.96
+"Iraq","Mosul",111.73
+"Iraq",NULL,111.73
+"Israel","Ashdod",129.70
+"Israel","Ashqelon",86.81
+"Israel","Bat Yam",67.86
+"Israel","Tel Aviv-Jaffa",94.76
+"Israel",NULL,379.13
+"Italy","Alessandria",88.80
+"Italy","Bergamo",137.67
+"Italy","Brescia",113.75
+"Italy","Brindisi",120.71
+"Italy","Livorno",95.78
+"Italy","Syrakusa",127.73
+"Italy","Udine",68.82
+"Italy",NULL,753.26
+"Japan","Akishima",108.73
+"Japan","Fukuyama",127.69
+"Japan","Higashiosaka",98.75
+"Japan","Hino",74.84
+"Japan","Hiroshima",84.79
+"Japan","Isesaki",99.78
+"Japan","Iwaki",106.77
+"Japan","Iwakuni",114.74
+"Japan","Iwatsuki",105.74
+"Japan","Izumisano",79.75
+"Japan","Kakamigahara",122.71
+"Japan","Kamakura",73.81
+"Japan","Kanazawa",87.80
+"Japan","Koriyama",62.81
+"Japan","Kurashiki",89.76
+"Japan","Kuwana",110.77
+"Japan","Matsue",68.81
+"Japan","Miyakonojo",116.74
+"Japan","Nagareyama",88.76
+"Japan","Okayama",91.81
+"Japan","Okinawa",92.79
+"Japan","Omiya",133.71
+"Japan","Onomichi",111.76
+"Japan","Otsu",117.77
+"Japan","Sagamihara",99.77
+"Japan","Sasebo",114.70
+"Japan","Shimonoseki",138.65
+"Japan","Tama",93.76
+"Japan","Tsuyama",78.84
+"Japan","Ueda",99.72
+"Japan","Urawa",125.68
+"Japan",NULL,3122.51
+"Kazakstan","Pavlodar",74.79
+"Kazakstan","Zhezqazghan",117.72
+"Kazakstan",NULL,192.51
+"Kenya","Kisumu",105.77
+"Kenya","Nyeri",139.72
+"Kenya",NULL,245.49
+"Kuwait","Jalib al-Shuyukh",106.75
+"Kuwait",NULL,106.75
+"Latvia","Daugavpils",142.70
+"Latvia","Liepaja",106.73
+"Latvia",NULL,249.43
+"Liechtenstein","Vaduz",99.74
+"Liechtenstein",NULL,99.74
+"Lithuania","Vilnius",63.78
+"Lithuania",NULL,63.78
+"Madagascar","Mahajanga",92.79
+"Madagascar",NULL,92.79
+"Malawi","Lilongwe",121.73
+"Malawi",NULL,121.73
+"Malaysia","Ipoh",104.75
+"Malaysia","Kuching",105.76
+"Malaysia","Sungai Petani",119.72
+"Malaysia",NULL,330.23
+"Mexico","Acua",100.77
+"Mexico","Allende",96.77
+"Mexico","Atlixco",128.70
+"Mexico","Carmen",95.79
+"Mexico","Celaya",102.76
+"Mexico","Coacalco de Berriozbal",88.81
+"Mexico","Coatzacoalcos",125.74
+"Mexico","Cuauhtmoc",134.72
+"Mexico","Cuautla",91.75
+"Mexico","Cuernavaca",109.76
+"Mexico","El Fuerte",121.70
+"Mexico","Guadalajara",89.78
+"Mexico","Hidalgo",94.78
+"Mexico","Huejutla de Reyes",112.76
+"Mexico","Huixquilucan",126.72
+"Mexico","Jos Azueta",97.75
+"Mexico","Jurez",69.79
+"Mexico","La Paz",95.78
+"Mexico","Matamoros",71.77
+"Mexico","Mexicali",106.77
+"Mexico","Monclova",91.75
+"Mexico","Nezahualcyotl",86.73
+"Mexico","Pachuca de Soto",65.83
+"Mexico","Salamanca",130.72
+"Mexico","San Felipe del Progreso",93.79
+"Mexico","San Juan Bautista Tuxtepec",98.75
+"Mexico","Torren",88.75
+"Mexico","Uruapan",143.68
+"Mexico","Valle de Santiago",52.81
+"Mexico","Zapopan",68.84
+"Mexico",NULL,2984.82
+"Moldova","Chisinau",127.66
+"Moldova",NULL,127.66
+"Morocco","Beni-Mellal",73.80
+"Morocco","Nador",105.74
+"Morocco","Sal",94.81
+"Morocco",NULL,274.35
+"Mozambique","Beira",142.66
+"Mozambique","Naala-Porto",113.77
+"Mozambique","Tete",58.82
+"Mozambique",NULL,315.25
+"Myanmar","Monywa",97.75
+"Myanmar","Myingyan",81.78
+"Myanmar",NULL,179.53
+"Nauru","Yangor",143.70
+"Nauru",NULL,143.70
+"Nepal","Birgunj",93.83
+"Nepal",NULL,93.83
+"Netherlands","Amersfoort",88.78
+"Netherlands","Apeldoorn",191.62
+"Netherlands","Ede",103.78
+"Netherlands","Emmen",92.75
+"Netherlands","s-Hertogenbosch",80.80
+"Netherlands",NULL,557.73
+"New Zealand","Hamilton",85.77
+"New Zealand",NULL,85.77
+"Nigeria","Benin City",108.78
+"Nigeria","Deba Habe",97.78
+"Nigeria","Effon-Alaiye",96.76
+"Nigeria","Ife",137.70
+"Nigeria","Ikerre",124.68
+"Nigeria","Ilorin",128.71
+"Nigeria","Kaduna",78.81
+"Nigeria","Ogbomosho",108.76
+"Nigeria","Ondo",89.77
+"Nigeria","Owo",103.77
+"Nigeria","Oyo",54.85
+"Nigeria","Sokoto",97.78
+"Nigeria","Zaria",86.77
+"Nigeria",NULL,1314.92
+"North Korea","Pyongyang",107.71
+"North Korea",NULL,107.71
+"Oman","Masqat",78.80
+"Oman","Salala",82.76
+"Oman",NULL,161.56
+"Pakistan","Dadu",113.72
+"Pakistan","Mandi Bahauddin",77.84
+"Pakistan","Mardan",103.73
+"Pakistan","Okara",73.82
+"Pakistan","Shikarpur",104.73
+"Pakistan",NULL,473.84
+"Paraguay","Asuncin",87.79
+"Paraguay","Ciudad del Este",80.82
+"Paraguay","San Lorenzo",104.79
+"Paraguay",NULL,273.40
+"Peru","Callao",79.81
+"Peru","Hunuco",118.73
+"Peru","Lima",120.70
+"Peru","Sullana",87.77
+"Peru",NULL,407.01
+"Philippines","Baybay",116.72
+"Philippines","Bayugan",92.75
+"Philippines","Bislig",71.81
+"Philippines","Cabuyao",123.71
+"Philippines","Cavite",114.72
+"Philippines","Davao",123.70
+"Philippines","Gingoog",90.73
+"Philippines","Hagonoy",70.82
+"Philippines","Iligan",98.74
+"Philippines","Imus",133.72
+"Philippines","Lapu-Lapu",122.70
+"Philippines","Mandaluyong",116.73
+"Philippines","Ozamis",122.74
+"Philippines","Santa Rosa",161.68
+"Philippines","Taguig",88.73
+"Philippines","Talavera",91.81
+"Philippines","Tanauan",156.66
+"Philippines","Tanza",166.61
+"Philippines","Tarlac",63.84
+"Philippines","Tuguegarao",90.78
+"Philippines",NULL,2219.70
+"Poland","Bydgoszcz",27.93
+"Poland","Czestochowa",100.76
+"Poland","Jastrzebie-Zdrj",118.70
+"Poland","Kalisz",75.81
+"Poland","Lublin",86.81
+"Poland","Plock",107.78
+"Poland","Tychy",132.65
+"Poland","Wroclaw",135.72
+"Poland",NULL,786.16
+"Puerto Rico","Arecibo",144.68
+"Puerto Rico","Ponce",79.80
+"Puerto Rico",NULL,224.48
+"Romania","Botosani",118.69
+"Romania","Bucuresti",99.73
+"Romania",NULL,218.42
+"Runion","Saint-Denis",211.55
+"Runion",NULL,211.55
+"Russian Federation","Atinsk",104.72
+"Russian Federation","Balaiha",84.81
+"Russian Federation","Dzerzinsk",71.80
+"Russian Federation","Elista",87.82
+"Russian Federation","Ivanovo",95.79
+"Russian Federation","Jaroslavl",71.84
+"Russian Federation","Jelets",101.77
+"Russian Federation","Kaliningrad",71.85
+"Russian Federation","Kamyin",102.77
+"Russian Federation","Kirovo-Tepetsk",120.74
+"Russian Federation","Kolpino",125.72
+"Russian Federation","Korolev",115.71
+"Russian Federation","Kurgan",109.73
+"Russian Federation","Kursk",80.85
+"Russian Federation","Lipetsk",101.79
+"Russian Federation","Ljubertsy",106.73
+"Russian Federation","Maikop",145.70
+"Russian Federation","Moscow",131.69
+"Russian Federation","Nabereznyje Telny",109.73
+"Russian Federation","Niznekamsk",67.86
+"Russian Federation","Novoterkassk",66.82
+"Russian Federation","Pjatigorsk",119.74
+"Russian Federation","Serpuhov",85.80
+"Russian Federation","Smolensk",105.78
+"Russian Federation","Syktyvkar",73.81
+"Russian Federation","Teboksary",63.79
+"Russian Federation","Usolje-Sibirskoje",152.69
+"Russian Federation","Zeleznogorsk",87.77
+"Russian Federation",NULL,2765.62
+"Saint Vincent and the Grenadines","Kingstown",64.82
+"Saint Vincent and the Grenadines",NULL,64.82
+"Saudi Arabia","Abha",86.77
+"Saudi Arabia","Jedda",116.76
+"Saudi Arabia","Tabuk",81.80
+"Saudi Arabia","al-Hawiya",75.83
+"Saudi Arabia","al-Qatif",91.78
+"Saudi Arabia",NULL,452.94
+"Senegal","Ziguinchor",95.76
+"Senegal",NULL,95.76
+"Slovakia","Bratislava",80.77
+"Slovakia",NULL,80.77
+"South Africa","Boksburg",131.69
+"South Africa","Botshabelo",95.72
+"South Africa","Chatsworth",74.83
+"South Africa","Johannesburg",106.74
+"South Africa","Kimberley",98.82
+"South Africa","Klerksdorp",79.81
+"South Africa","Newcastle",93.80
+"South Africa","Paarl",78.80
+"South Africa","Rustenburg",104.74
+"South Africa","Soshanguve",107.73
+"South Africa","Springs",96.78
+"South Africa",NULL,1069.46
+"South Korea","Cheju",84.80
+"South Korea","Kimchon",90.77
+"South Korea","Naju",138.69
+"South Korea","Tonghae",109.77
+"South Korea","Uijongbu",103.74
+"South Korea",NULL,527.77
+"Spain","A Corua (La Corua)",106.72
+"Spain","Donostia-San Sebastin",107.79
+"Spain","Gijn",77.80
+"Spain","Ourense (Orense)",158.65
+"Spain","Santiago de Compostela",62.84
+"Spain",NULL,513.80
+"Sri Lanka","Jaffna",103.73
+"Sri Lanka",NULL,103.73
+"Sudan","Omdurman",144.70
+"Sudan","al-Qadarif",57.81
+"Sudan",NULL,202.51
+"Sweden","Malm",139.67
+"Sweden",NULL,139.67
+"Switzerland","Basel",57.87
+"Switzerland","Bern",106.76
+"Switzerland","Lausanne",83.78
+"Switzerland",NULL,248.41
+"Taiwan","Changhwa",149.61
+"Taiwan","Chiayi",89.78
+"Taiwan","Chungho",100.76
+"Taiwan","Fengshan",135.68
+"Taiwan","Hsichuh",144.66
+"Taiwan","Lungtan",123.66
+"Taiwan","Nantou",134.65
+"Taiwan","Tanshui",111.74
+"Taiwan","Touliu",113.73
+"Taiwan","Tsaotun",50.83
+"Taiwan",NULL,1155.10
+"Tanzania","Mwanza",109.72
+"Tanzania","Tabora",102.75
+"Tanzania","Zanzibar",109.75
+"Tanzania",NULL,322.22
+"Thailand","Nakhon Sawan",142.69
+"Thailand","Pak Kret",111.71
+"Thailand","Songkhla",146.68
+"Thailand",NULL,401.08
+"Tonga","Nukualofa",64.84
+"Tonga",NULL,64.84
+"Tunisia","Sousse",73.78
+"Tunisia",NULL,73.78
+"Turkey","Adana",74.81
+"Turkey","Balikesir",145.64
+"Turkey","Batman",133.70
+"Turkey","Denizli",81.83
+"Turkey","Eskisehir",89.77
+"Turkey","Gaziantep",83.81
+"Turkey","Inegl",71.79
+"Turkey","Kilis",83.80
+"Turkey","Ktahya",57.86
+"Turkey","Osmaniye",131.73
+"Turkey","Sivas",108.75
+"Turkey","Sultanbeyli",104.78
+"Turkey","Tarsus",64.85
+"Turkey","Tokat",130.68
+"Turkey","Usak",134.69
+"Turkey",NULL,1498.49
+"Turkmenistan","Ashgabat",126.74
+"Turkmenistan",NULL,126.74
+"Tuvalu","Funafuti",93.78
+"Tuvalu",NULL,93.78
+"Ukraine","Kamjanets-Podilskyi",109.72
+"Ukraine","Konotop",84.81
+"Ukraine","Mukateve",112.73
+"Ukraine","Simferopol",118.76
+"Ukraine","Sumy",151.73
+"Ukraine","ostka",97.78
+"Ukraine",NULL,675.53
+"United Arab Emirates","Abu Dhabi",99.71
+"United Arab Emirates","Sharja",102.78
+"United Arab Emirates","al-Ayn",102.76
+"United Arab Emirates",NULL,305.25
+"United Kingdom","Bradford",72.79
+"United Kingdom","Dundee",74.77
+"United Kingdom","London",174.54
+"United Kingdom","Southampton",117.77
+"United Kingdom","Southend-on-Sea",109.75
+"United Kingdom","Southport",72.82
+"United Kingdom","Stockport",106.79
+"United Kingdom","York",121.73
+"United Kingdom",NULL,850.96
+"United States","Akron",134.71
+"United States","Arlington",87.80
+"United States","Augusta-Richmond County",105.73
+"United States","Aurora",159.58
+"United States","Bellevue",91.80
+"United States","Brockton",116.75
+"United States","Cape Coral",208.58
+"United States","Citrus Heights",96.77
+"United States","Clarksville",83.82
+"United States","Compton",92.76
+"United States","Dallas",105.76
+"United States","Dayton",105.77
+"United States","El Monte",74.80
+"United States","Fontana",123.70
+"United States","Garden Grove",101.76
+"United States","Garland",86.75
+"United States","Grand Prairie",76.80
+"United States","Greensboro",115.70
+"United States","Joliet",117.75
+"United States","Kansas City",81.81
+"United States","Lancaster",129.72
+"United States","Laredo",84.75
+"United States","Lincoln",112.75
+"United States","Manchester",85.78
+"United States","Memphis",167.67
+"United States","Peoria",92.75
+"United States","Roanoke",73.83
+"United States","Rockford",106.73
+"United States","Saint Louis",78.79
+"United States","Salinas",96.79
+"United States","San Bernardino",123.74
+"United States","Sterling Heights",126.73
+"United States","Sunnyvale",103.74
+"United States","Tallahassee",37.87
+"United States","Warren",94.77
+"United States",NULL,3685.31
+"Venezuela","Barcelona",66.79
+"Venezuela","Caracas",94.75
+"Venezuela","Cuman",111.73
+"Venezuela","Maracabo",111.77
+"Venezuela","Ocumare del Tuy",81.81
+"Venezuela","Valencia",84.80
+"Venezuela","Valle de la Pascua",80.78
+"Venezuela",NULL,632.43
+"Vietnam","Cam Ranh",149.69
+"Vietnam","Haiphong",95.76
+"Vietnam","Hanoi",83.77
+"Vietnam","Nam Dinh",131.74
+"Vietnam","Nha Trang",127.69
+"Vietnam","Vinh",87.80
+"Vietnam",NULL,676.45
+"Virgin Islands, U.S.","Charlotte Amalie",121.69
+"Virgin Islands, U.S.",NULL,121.69
+"Yemen","Aden",134.70
+"Yemen","Hodeida",157.69
+"Yemen","Sanaa",70.81
+"Yemen","Taizz",110.73
+"Yemen",NULL,473.93
+"Yugoslavia","Kragujevac",130.72
+"Yugoslavia","Novi Sad",102.77
+"Yugoslavia",NULL,233.49
+"Zambia","Kitwe",121.70
+"Zambia",NULL,121.70
+NULL,NULL,61312.04
