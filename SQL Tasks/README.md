@@ -16,7 +16,9 @@ customer – stores customer data.<br/>
 address – stores address data for staff and customers<br/>
 city – stores city names.<br/>
 country – stores country names.<br/>
-
+<br/>
+Source https://www.postgresqltutorial.com/postgresql-sample-database/<br/>
+<br/>
 ![image](https://user-images.githubusercontent.com/80908061/114444764-e9570400-9bd7-11eb-8820-a66597ddc6d0.png)
 
 ## Challenges
